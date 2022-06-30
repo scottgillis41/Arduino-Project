@@ -3,8 +3,8 @@
  * 
  * Used to find the limits for servos when attached to a device.
  * 
- * Seth McNeill
- * 2019 August 22
+ * Scott Gillis
+ * 2021 August 22
  *
  */
 
